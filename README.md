@@ -15,4 +15,17 @@ https://hammeetup.blogspot.com/
 www.hammeetup.blogspot.com/
 
 
+Amateur Radio Zoom Meetup.🇨🇦 
+- C4FM.ca   - discussion about C4FM
+- RaspberryPI Shake 
+- AREDN 
+- VHF UHF Antenna
+- TETRA
+- Mobile transceivers
+- P25 - discussion about P25
+- Repeaters
+- 
 
+
+
+.
