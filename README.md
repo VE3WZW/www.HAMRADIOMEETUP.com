@@ -27,5 +27,5 @@ Amateur Radio Zoom Meetup.🇨🇦
 - 
 
 
-
+www.hamradiomeetup.ca
 .
